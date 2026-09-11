@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 96 96" role="img" aria-label="Logo IX Karim">
+  <!-- Lingkaran maroon tua -->
+  <circle cx="48" cy="48" r="48" fill="#5E1B22"/>
+  <!-- Cincin emas tipis -->
+  <circle cx="48" cy="48" r="42.5" fill="none" stroke="#C9A35B" stroke-width="1.6"/>
+  <!-- Monogram "IX" geometris -->
+  <g fill="#F5EEDF">
+    <rect x="18" y="27" width="9" height="42" rx="4.5"/>
+    <rect x="53.5" y="19" width="9" height="58" rx="4.5" transform="rotate(45 58 48)"/>
+    <rect x="53.5" y="19" width="9" height="58" rx="4.5" transform="rotate(-45 58 48)"/>
+  </g>
+</svg>
